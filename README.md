@@ -52,7 +52,7 @@ sudo /opt/bitnami/ctlscript.sh restart
 Restart the service
 Refresh page - dashboard should now be back up
 
-And there you go, deployment environment set up on Google Cloud.
+And there you go, able to launch a complete Continuous Integration solution.  demonstrated that you had user access through the Jenkins UI, and  demonstrated administrative control over Jenkins by using SSH to connect to the VM where the service is hosted and by stopping and then restarting the services.
 
 
 
